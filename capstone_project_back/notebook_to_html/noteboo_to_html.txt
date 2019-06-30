@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/15998491/how-to-convert-ipython-notebooks-to-pdf-and-html
+
+jupyter nbconvert --to html notebook.ipynb
+
+IN TERMINAL:
+
+cd /Users/adhudz/Desktop/coding_temple/capstone_project/capstone_project_back/code
+
+jupyter nbconvert --to html Preprocessing_and_Linear_Regression.ipynb
+
+jupyter nbconvert --to html Pickle_Preprocessing.ipynb

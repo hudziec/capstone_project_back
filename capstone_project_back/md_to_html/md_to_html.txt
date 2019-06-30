@@ -1,0 +1,11 @@
+https://sebastianraschka.com/Articles/2014_markdown_syntax_color.html
+
+python -m markdown input.md > output.html
+
+IN TERMINAL:
+
+pip install markdown
+
+pip install Pygments
+
+python -m markdown README.md > README.html
